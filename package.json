@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "Covalence lab for NodeJS.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Pinheiro",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "require-promise": "^1.0.1"
+  }
+}
